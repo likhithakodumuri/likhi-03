@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @likhi-03
 - 👀 I’m interested in Full stack development and App development
-- 🌱 I’m currently Student at Anurag University (B-Tech 3rd year)
+- 🌱 I’m currently Student at Anurag University (B-Tech 4th year)
 - 💞️ I’m looking to collaborate on Full stack and app development
 - 📫 How to reach me: likhithakodumuri2003@gmail.com
 
